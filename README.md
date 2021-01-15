@@ -9,6 +9,7 @@ Code bootcamp serverside API instructional project.
 * CSS
 * JavaScript
 * JSON
+* AJAX
 * GitHub REST API
 
 ## Website
